@@ -1,6 +1,6 @@
 [versions]
 
-jooqDockerPlugin = "8.0.22"
+jooqDockerPlugin = "8.0.23"
 jvmTarget = "25"
 kotlin = "2.3.21"
 kotest = "6.1.11"
