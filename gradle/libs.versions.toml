@@ -3,7 +3,7 @@
 jooqDockerPlugin = "8.0.25"
 jvmTarget = "25"
 kotlin = "2.4.0"
-kotest = "6.1.11"
+kotest = "6.2.0"
 kotlinLogging = "8.0.4"
 mockk = "1.14.11"
 mockkSpring = "5.0.1"
