@@ -10,7 +10,7 @@ mockkSpring = "5.0.1"
 spotless = "8.11.0"
 springDependencyManagement = "1.1.7"
 springboot = "4.2.0"
-springdoc = "3.2.0"
+springdoc = "3.2.1"
 swagger = "7.27.0"
 testcontainers = "2.0.5"
 
